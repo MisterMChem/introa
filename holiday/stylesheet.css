@@ -1,0 +1,38 @@
+body {
+	background: #FFFAE4;
+}
+#photoWrapper {
+	width: 50%;
+	margin-left: 25%;
+}
+#thePhoto {
+	width: 100%;
+}
+#forwardBtn {
+	position: relative;
+	float: right;
+}
+button {
+	background: #40627C;
+	color: #FFFAE4;
+}
+.centerMe{
+	text-align: center;
+	color: #26393d;
+}
+p.centerMe {
+	margin-left: 20%;
+	width: 60%;
+}
+h1 {
+	font-family: 'Love Ya Like A Sister', cursive;
+}
+.pageWrapper {
+	width: 70%;
+	margin-left: 15%;
+	padding: 20px 20px 20px 20px;
+	background-color: #E8E595;
+}
+#chart_div {
+	margin-left: 25%;
+}
